@@ -89,14 +89,6 @@ A full-stack user management application with secure authentication and CRUD ope
 
 ---
 
-## 🌐 Portfolio Website
-
-**GitHub:** https://github.com/abid-mhmd/portfolio
-
-A modern portfolio showcasing my projects, skills, and development journey with a clean and responsive interface.
-
----
-
 <div align="center">
 
 ### 📫 Connect With Me
