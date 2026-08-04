@@ -33,34 +33,42 @@ I'm **Mohammed Abid**, a Full-Stack Web Developer passionate about building scal
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-### Tools & Platforms
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,vercel,aws" />
 </p>
+
+### Concepts
+
+- REST APIs
+- JWT Authentication
+- Responsive Design
+- MVC Architecture
+- Authentication & Authorization
+- API Integration
 
 ### 🎯 Current Focus
 
-- ⚙️ Building scalable backend systems and REST APIs
-- 🏗️ Designing production-style full-stack applications
-- 🧠 Learning system design and backend architecture
-- 🚀 Improving API performance and application scalability
-
+- ⚙️ Building scalable backend architectures
+- 🚀 Developing production-ready full-stack applications
+- 🧠 Exploring system design fundamentals and scalable APIs
+- 🤖 Leveraging AI-assisted development workflows
 ---
 
 # 🚀 Featured Projects
