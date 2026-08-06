@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Mohammed+Abid;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Passionate+About+Backend+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋 Hi+there,+I'm+Mohammed+Abid;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Passionate+About+Backend+Development" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/mohammed-abid1/">
