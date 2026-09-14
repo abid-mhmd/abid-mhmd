@@ -104,8 +104,28 @@ A full-stack user management application with:
 
 ---
 
-<div align="center">
+---
 
-Open to opportunities and collaborations — feel free to reach out.
+<h2 align="center">🤝 Let's Connect</h2>
 
-</div>
+<p align="center">
+  <em>Open to opportunities, collaborations & building great products.</em>
+</p>
+
+<p align="center">
+  <a href="mailto:abidmhmd2004@gmail.com">
+    📧 <strong>abidmhmd2004@gmail.com</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-abid1/">
+    💼 <strong>linkedin.com/in/mohammed-abid1</strong>
+  </a>
+</p>
+
+<p align="center">
+  <br>
+  <strong>💡 Got an idea, opportunity, or project?</strong>
+  <br>
+  <em>I'd love to hear from you.</em> 🚀
+</p>
+
